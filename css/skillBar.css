@@ -28,7 +28,7 @@
     left: 0;
     width: 102%;
     height: 20px;
-    background-color:#d2d6d7;
+    background-color:#f7fafc;
     border-radius: 1000px;
     z-index: -2;
 }
@@ -40,7 +40,7 @@
     left: 0;
     width: 0;
     height: 20px;
-    background-color: #bd5d38;
+    background-color: #007bff;
     border-radius: 1000px;
     animation-duration: 2s;
     animation-timing-function: ease;
